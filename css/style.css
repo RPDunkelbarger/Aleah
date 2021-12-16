@@ -16,6 +16,10 @@ nav {
     font-weight: 500;
 }
 
+.bodyContent {
+    display: inline-block;
+}
+
 .sidebar {
     width: 29%;
     height: 350px;
@@ -27,12 +31,10 @@ nav {
     padding: 20px;
 }
 
-.image {
-    max-width: 80%;
-}
+
 .main {
-    width: 69%;
+    width: 68%;
     height: 350px;
     background-color: purple;
-    float: left;
+    float: right;
 }
