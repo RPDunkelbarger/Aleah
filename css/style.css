@@ -27,6 +27,9 @@ nav {
     padding: 20px;
 }
 
+.image {
+    max-width: 80%;
+}
 .main {
     width: 69%;
     height: 350px;
