@@ -18,7 +18,7 @@ nav {
 
 .sidebar {
     width: 29%;
-    height: 750px;
+    height: 350px;
     background-color: violet;
     float: left;
     text-align: center;
@@ -29,7 +29,7 @@ nav {
 
 .main {
     width: 70%;
-    height: 750px;
+    height: 350px;
     background-color: purple;
     float: left;
 }
