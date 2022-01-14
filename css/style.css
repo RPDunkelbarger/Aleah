@@ -1,7 +1,8 @@
 @font-face {
     font-family: myFirstFont;
-    src: url(fonts/MidnightMinutes_DEMO.otf);
+    src: url(MidnightMinutes_DEMO.otf);
   }
+
   body {
     background: blueviolet;
 }
@@ -48,6 +49,6 @@ nav {
 }
 
 .midnight {
-    font-family: serif;
-    font-size: 48px;
+    font-family: myFirstFont;
+    font-size: 60px;
 }
